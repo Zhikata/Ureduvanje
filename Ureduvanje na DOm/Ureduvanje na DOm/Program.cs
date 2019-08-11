@@ -36,6 +36,6 @@ namespace Ureduvanje_na_DOm
             System.Console.WriteLine("Vnesi adresa");
             kukja.Adresa = (System.Console.ReadLine());
         }
-
+        //test za upload
     }
 }
