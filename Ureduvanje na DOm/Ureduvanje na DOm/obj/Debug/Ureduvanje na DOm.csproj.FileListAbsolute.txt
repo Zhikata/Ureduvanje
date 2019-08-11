@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ureduvanje na DOm\Ureduvanje na DOm\bin\Debug\Ureduvanje na DOm.exe.config
+C:\Users\User\source\repos\Ureduvanje na DOm\Ureduvanje na DOm\bin\Debug\Ureduvanje na DOm.exe
+C:\Users\User\source\repos\Ureduvanje na DOm\Ureduvanje na DOm\bin\Debug\Ureduvanje na DOm.pdb
+C:\Users\User\source\repos\Ureduvanje na DOm\Ureduvanje na DOm\obj\Debug\Ureduvanje na DOm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ureduvanje na DOm\Ureduvanje na DOm\obj\Debug\Ureduvanje na DOm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ureduvanje na DOm\Ureduvanje na DOm\obj\Debug\Ureduvanje na DOm.exe
+C:\Users\User\source\repos\Ureduvanje na DOm\Ureduvanje na DOm\obj\Debug\Ureduvanje na DOm.pdb
